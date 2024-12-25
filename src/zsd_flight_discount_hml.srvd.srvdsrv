@@ -1,0 +1,4 @@
+@EndUserText.label: 'SD - Virtual Element'
+define service Zsd_flight_discount_hml {
+  expose zcds_proj_virtual_disc_hml as FlightBO;
+}
